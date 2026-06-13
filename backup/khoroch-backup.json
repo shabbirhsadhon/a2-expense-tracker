@@ -1,11 +1,8 @@
 {
   "version": 1,
-  "exportedAt": "2026-06-13T17:31:54.055Z",
+  "exportedAt": "2026-06-13T17:41:21.113Z",
   "appName": "খরচ ট্র্যাকার",
   "data": {
-    "et_other_cats": [
-      "Jersey"
-    ],
     "et_2026_4": {
       "deposits": [
         {
@@ -182,6 +179,9 @@
           "cat": "Washroom"
         }
       ]
-    }
+    },
+    "et_other_cats": [
+      "Jersey"
+    ]
   }
 }
