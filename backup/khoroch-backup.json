@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "exportedAt": "2026-06-18T11:08:18.978Z",
+  "exportedAt": "2026-06-18T11:08:59.335Z",
   "appName": "খরচ ট্র্যাকার",
   "data": {
     "et_other_cats": [
       "Jersey"
     ],
-    "et_last_sync": "2026-06-18T11:08:12.095Z",
+    "et_last_sync": "2026-06-18T11:08:20.911Z",
     "et_2026_4": {
       "deposits": [
         {
@@ -85,6 +85,13 @@
           "amount": 100,
           "source": "অন্যান্য",
           "note": "বিয়ে"
+        },
+        {
+          "id": 1781780936328,
+          "date": "2026-06-18",
+          "amount": 1,
+          "source": "বেতন",
+          "note": ""
         }
       ],
       "expenses": [
