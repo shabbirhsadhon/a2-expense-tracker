@@ -1,8 +1,9 @@
 {
   "version": 1,
-  "exportedAt": "2026-06-18T11:52:14.661Z",
+  "exportedAt": "2026-06-18T11:55:05.163Z",
   "appName": "খরচ ট্র্যাকার",
   "data": {
+    "et_other_cats": [],
     "et_deleted_items": [
       {
         "k": "et_2026_5",
@@ -21,7 +22,6 @@
         "id": 1781783416722
       }
     ],
-    "et_other_cats": [],
     "et_2026_4": {
       "deposits": [
         {
