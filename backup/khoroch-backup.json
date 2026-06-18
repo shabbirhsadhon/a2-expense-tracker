@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-06-18T11:30:56.701Z",
+  "exportedAt": "2026-06-18T11:36:03.691Z",
   "appName": "খরচ ট্র্যাকার",
   "data": {
     "et_other_cats": [],
@@ -264,14 +264,9 @@
           "date": "2026-06-17",
           "amount": 20,
           "cat": "খাবার"
-        },
-        {
-          "id": 1781782215347,
-          "date": "2026-06-18",
-          "amount": 1,
-          "cat": "xxxxxx"
         }
       ]
     }
-  }
+  },
+  "deletedKeys": []
 }
