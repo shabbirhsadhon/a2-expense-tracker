@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-06-18T12:16:43.447Z",
+  "exportedAt": "2026-06-18T12:17:06.824Z",
   "appName": "খরচ ট্র্যাকার",
   "data": {
     "et_deleted_items": [
@@ -100,13 +100,6 @@
           "amount": 100,
           "source": "অন্যান্য",
           "note": "বিয়ে"
-        },
-        {
-          "id": 1781784631844,
-          "date": "2026-06-18",
-          "amount": 1,
-          "source": "অন্যান্য",
-          "note": "1"
         }
       ],
       "expenses": [
