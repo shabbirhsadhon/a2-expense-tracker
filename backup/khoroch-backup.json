@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-06-18T12:17:16.210Z",
+  "exportedAt": "2026-06-18T12:21:49.244Z",
   "appName": "খরচ ট্র্যাকার",
   "data": {
     "et_deleted_items": [
@@ -21,7 +21,14 @@
         "id": 1781783416722
       }
     ],
+    "et_autosync": 1,
+    "et_last_sync": "2026-06-18T12:19:04.227Z",
     "et_other_cats": [],
+    "et_excluded_cats": [
+      "বাসা ভাড়া",
+      "বাজার",
+      "অন্যান্য"
+    ],
     "et_2026_4": {
       "deposits": [
         {
@@ -285,6 +292,5 @@
         }
       ]
     }
-  },
-  "deletedKeys": []
+  }
 }
