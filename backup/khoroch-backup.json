@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "exportedAt": "2026-06-18T11:10:54.731Z",
+  "exportedAt": "2026-06-18T11:16:44.869Z",
   "appName": "খরচ ট্র্যাকার",
   "data": {
-    "et_last_sync": "2026-06-18T11:10:41.270Z",
     "et_other_cats": [
       "Jersey"
     ],
+    "et_last_sync": "2026-06-18T11:08:20.911Z",
     "et_excluded_cats": [
       "বাসা ভাড়া",
       "বাজার",
@@ -90,13 +90,6 @@
           "amount": 100,
           "source": "অন্যান্য",
           "note": "বিয়ে"
-        },
-        {
-          "id": 1781780936328,
-          "date": "2026-06-18",
-          "amount": 1,
-          "source": "বেতন",
-          "note": ""
         }
       ],
       "expenses": [
